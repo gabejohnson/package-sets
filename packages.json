@@ -1200,7 +1200,7 @@
       "typelevel-prelude"
     ],
     "repo": "https://github.com/purescript/purescript-record.git",
-    "version": "v0.2.2"
+    "version": "v0.2.4"
   },
   "reflection": {
     "dependencies": [
